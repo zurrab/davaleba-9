@@ -1,0 +1,16 @@
+@font-face{
+    font-family:"inter";
+    src: url("./fonts/inter.ttf");
+}
+.container{
+    width: 1440px;
+    height: 880px;
+    background-color: #FFFFFF;
+}
+p{
+    text-align: center;
+    padding-top: 137px;
+    font-family: "inter";
+    color: #FFFFFF;
+    font-size: 36px;
+}
